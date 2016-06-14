@@ -1,0 +1,24 @@
+{
+  "name": "slackbot-doge",
+  "version": "1.0.0",
+  "description": "doge meme generator",
+  "main": "main.js",
+  "dependencies": {
+    "imgflipper": "^1.0.1",
+    "slackbots": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ListingPowerTools/slackbot-doge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ListingPowerTools/slackbot-doge/issues"
+  },
+  "homepage": "https://github.com/ListingPowerTools/slackbot-doge#readme"
+}
