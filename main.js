@@ -34,16 +34,16 @@ bot.on('message', function (data) {
         if (data.text.indexOf("seal") > -1) {
             var memeType = 23909796;
         }
-        if (data.text.indexOf("first world problem") > -1) {
+        if (data.text.indexOf("first-world-problem") > -1) {
             var memeType = 61539;
         }
-        if (data.text.indexOf("board room meeting") > -1) {
+        if (data.text.indexOf("board-room-meeting") > -1) {
             var memeType = 1035805;
         }
         if (data.text.indexOf("philosorapter") > -1) {
             var memeType = 61516;
         }
-        if (data.text.indexOf("i should buy a boat cat") > -1) {
+        if (data.text.indexOf("i-should-buy-a-boat-cat") > -1) {
             var memeType = 1367068;
         }
 
