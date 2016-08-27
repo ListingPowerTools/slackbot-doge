@@ -47,15 +47,17 @@ bot.on('message', function (data) {
             var memeType = 1367068;
         }
 
-        
+
 
 
 
         imgflipper.generateMeme(memeType, textUpDown[0], textUpDown[1], function (error, res) {
 
+
             var params = {
                 "channel": data.channel,
-                "text": "Hello there. I'm doge bot!",
+                "icon_emoji": ':smiley:',
+                "text": "",
                 "attachments": [
                     {
                         "text": "",
